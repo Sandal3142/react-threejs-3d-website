@@ -21,7 +21,7 @@ An interactive 3D website built using React and Three.js, featuring real-time an
 
 ## 📦 Installation
 
-git clone https://github.com/yourusername/repositoryname.git
+git clone https://github.com/Sandal3142/react-threejs-3d-website
 cd repositoryname
 npm install
 npm start
